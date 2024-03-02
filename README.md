@@ -2,4 +2,5 @@
 根据openai的whisper以及google的开源语音api实现了一个简单的人机对话机器人
 
 thirteen_robot_google 使用Google Cloud Speech
+
 thirteen_robot_whisper 使用OpenAI的whisper
