@@ -1,6 +1,10 @@
 # thirteen_robot
 ## 内容
-根据openai的whisper以及google的开源语音api实现了一个简单的人机对话机器人
+根据openai的whisper以及google的开源语音api实现了一个简单的人机对话机器人  
+### 原理
+读取语言，通过语音识别将语言转化为文字。  
+再根据判断文字中是否存在已设定的关键词来作出相应操作。  
+
 
 ## 配置
 Python == 3.10
