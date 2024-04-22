@@ -13,6 +13,7 @@ Python == 3.10
 pip install -r requirements.txt
 ```
 whisper的安装详见|https://github.com/openai/whisper
+
 ## 使用语音识别模型 
 ### 1.thirteen_robot_google
 *使用Google Cloud Speech*
@@ -20,3 +21,7 @@ whisper的安装详见|https://github.com/openai/whisper
 ### 2.thirteen_robot_whisper
 *使用OpenAI的whisper*
 （初次使用需要下载whisper模型）
+## 拓展
+* 可根据不同的语言来确定语音识别的内容
+* 可自定义关键词
+* 可自定义接收指令后操作或回答特定语句
