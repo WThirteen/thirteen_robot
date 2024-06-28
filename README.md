@@ -2,7 +2,7 @@
 <h4 align="center">
     <p>
         <b>中文</b> |
-        <a href="https://github.com/WThirteen/Sarcasm-detection/blob/main/README_EN.md">English</a>
+        <a href="https://github.com/WThirteen/thirteen_robot/blob/main/README_EN.md">English</a>
     <p>
 </h4>
 </div>
@@ -14,7 +14,7 @@
 再根据判断文字中是否存在已设定的关键词来作出相应操作。  
 
 ## 初始页面
-![image](https://github.com/WThirteen/thirteen_robot/blob/main/test_jpg/test1.jpg)
+![image](https://github.com/WThirteen/thirteen_robot/blob/main/test_jpg/test.jpg)
 
 
 ## 配置
